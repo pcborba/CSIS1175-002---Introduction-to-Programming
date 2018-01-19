@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\bin\Debug\Arguments.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\bin\Debug\Arguments.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\bin\Debug\Arguments.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\obj\Debug\Arguments.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\obj\Debug\Arguments.frmArgument.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\obj\Debug\Arguments.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\obj\Debug\Arguments.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\obj\Debug\Arguments.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Arguments\Arguments\obj\Debug\Arguments.pdb

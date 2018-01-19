@@ -1,0 +1,12 @@
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\bin\Debug\demo2Week12.exe.config
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\bin\Debug\demo2Week12.exe
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\bin\Debug\demo2Week12.pdb
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\obj\Debug\demo2Week12.csprojResolveAssemblyReference.cache
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\obj\Debug\demo2Week12.Form1.resources
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\obj\Debug\demo2Week12.Properties.Resources.resources
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\obj\Debug\demo2Week12.csproj.GenerateResource.Cache
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\obj\Debug\demo2Week12.exe
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week12\demo2Week12\obj\Debug\demo2Week12.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week12\demo2Week12\bin\Debug\demo2Week12.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week12\demo2Week12\obj\Debug\demo2Week12.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week12\demo2Week12\obj\Debug\demo2Week12.pdb

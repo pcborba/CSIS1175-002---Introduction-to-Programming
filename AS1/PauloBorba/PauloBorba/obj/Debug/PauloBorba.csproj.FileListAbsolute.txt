@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\bin\Debug\PauloBorba.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\bin\Debug\PauloBorba.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\bin\Debug\PauloBorba.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\obj\Debug\PauloBorba.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\obj\Debug\PauloBorba.frmCruiseManager.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\obj\Debug\PauloBorba.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\obj\Debug\PauloBorba.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\obj\Debug\PauloBorba.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS1\PauloBorba\PauloBorba\obj\Debug\PauloBorba.pdb

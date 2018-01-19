@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.latintransForm.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb

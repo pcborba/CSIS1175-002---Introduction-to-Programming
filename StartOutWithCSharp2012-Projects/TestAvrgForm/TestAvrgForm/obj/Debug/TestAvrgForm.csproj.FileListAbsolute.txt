@@ -1,0 +1,8 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TestAvrgForm\TestAvrgForm\bin\Debug\TestAvrgForm.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TestAvrgForm\TestAvrgForm\bin\Debug\TestAvrgForm.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TestAvrgForm\TestAvrgForm\bin\Debug\TestAvrgForm.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TestAvrgForm\TestAvrgForm\obj\Debug\TestAvrgForm.frmTestAverage.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TestAvrgForm\TestAvrgForm\obj\Debug\TestAvrgForm.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TestAvrgForm\TestAvrgForm\obj\Debug\TestAvrgForm.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TestAvrgForm\TestAvrgForm\obj\Debug\TestAvrgForm.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TestAvrgForm\TestAvrgForm\obj\Debug\TestAvrgForm.pdb

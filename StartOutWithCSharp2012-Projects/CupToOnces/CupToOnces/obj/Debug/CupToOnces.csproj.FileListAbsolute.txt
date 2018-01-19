@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\bin\Debug\CupToOnces.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\bin\Debug\CupToOnces.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\bin\Debug\CupToOnces.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\obj\Debug\CupToOnces.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\obj\Debug\CupToOnces.frmConvert.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\obj\Debug\CupToOnces.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\obj\Debug\CupToOnces.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\obj\Debug\CupToOnces.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\CupToOnces\CupToOnces\obj\Debug\CupToOnces.pdb

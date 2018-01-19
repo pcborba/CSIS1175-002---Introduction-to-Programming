@@ -1,0 +1,4 @@
+Simon Li,89,67,54,66
+Ray Yu,77,89,94,80
+Sarah Stephens,89,84,69,99
+Victor Choong,88,99,77,66

@@ -1,0 +1,12 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\simonliProjGraph\simonliProjGraph\bin\Debug\simonliProjGraph.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\simonliProjGraph\simonliProjGraph\obj\Debug\simonliProjGraph.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\simonliProjGraph\simonliProjGraph\bin\Debug\simonliProjGraph.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\simonliProjGraph\simonliProjGraph\bin\Debug\simonliProjGraph.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\simonliProjGraph\simonliProjGraph\obj\Debug\simonliProjGraph.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\simonliProjGraph\simonliProjGraph\obj\Debug\simonliProjGraph.pdb
+C:\Users\Bilals\Desktop\simonliProjGraph\simonliProjGraph\bin\Debug\simonliProjGraph.exe.config
+C:\Users\Bilals\Desktop\simonliProjGraph\simonliProjGraph\obj\Debug\simonliProjGraph.exe
+C:\Users\Bilals\Desktop\simonliProjGraph\simonliProjGraph\obj\Debug\simonliProjGraph.pdb
+C:\Users\Bilals\Desktop\simonliProjGraph\simonliProjGraph\bin\Debug\simonliProjGraph.exe
+C:\Users\Bilals\Desktop\simonliProjGraph\simonliProjGraph\bin\Debug\simonliProjGraph.pdb
+C:\Users\Bilals\Desktop\simonliProjGraph\simonliProjGraph\obj\Debug\simonliProjGraph.csprojResolveAssemblyReference.cache

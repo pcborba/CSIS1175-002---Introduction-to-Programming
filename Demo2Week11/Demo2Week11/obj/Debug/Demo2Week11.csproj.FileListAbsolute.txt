@@ -1,0 +1,9 @@
+E:\Demo2Week11\Demo2Week11\bin\Debug\Demo2Week11.exe.config
+E:\Demo2Week11\Demo2Week11\bin\Debug\Demo2Week11.exe
+E:\Demo2Week11\Demo2Week11\bin\Debug\Demo2Week11.pdb
+E:\Demo2Week11\Demo2Week11\obj\Debug\Demo2Week11.csprojResolveAssemblyReference.cache
+E:\Demo2Week11\Demo2Week11\obj\Debug\Demo2Week11.Form1.resources
+E:\Demo2Week11\Demo2Week11\obj\Debug\Demo2Week11.Properties.Resources.resources
+E:\Demo2Week11\Demo2Week11\obj\Debug\Demo2Week11.csproj.GenerateResource.Cache
+E:\Demo2Week11\Demo2Week11\obj\Debug\Demo2Week11.exe
+E:\Demo2Week11\Demo2Week11\obj\Debug\Demo2Week11.pdb

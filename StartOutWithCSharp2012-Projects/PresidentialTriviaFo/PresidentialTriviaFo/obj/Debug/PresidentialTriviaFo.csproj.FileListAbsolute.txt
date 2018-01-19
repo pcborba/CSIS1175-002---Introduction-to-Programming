@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\bin\Debug\PresidentialTriviaFo.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\obj\Debug\PresidentialTriviaFo.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\obj\Debug\PresidentialTriviaFo.presidentialForm.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\obj\Debug\PresidentialTriviaFo.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\obj\Debug\PresidentialTriviaFo.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\bin\Debug\PresidentialTriviaFo.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\bin\Debug\PresidentialTriviaFo.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\obj\Debug\PresidentialTriviaFo.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PresidentialTriviaFo\PresidentialTriviaFo\obj\Debug\PresidentialTriviaFo.pdb

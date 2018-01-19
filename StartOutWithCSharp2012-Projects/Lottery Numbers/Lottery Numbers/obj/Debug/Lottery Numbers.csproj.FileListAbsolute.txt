@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery_Numbers.Form1.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery_Numbers.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.pdb

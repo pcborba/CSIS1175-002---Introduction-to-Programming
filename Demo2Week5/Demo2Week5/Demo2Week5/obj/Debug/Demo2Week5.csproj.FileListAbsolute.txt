@@ -1,0 +1,9 @@
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\bin\Debug\Demo2Week5.exe.config
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\bin\Debug\Demo2Week5.exe
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\bin\Debug\Demo2Week5.pdb
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\obj\Debug\Demo2Week5.csprojResolveAssemblyReference.cache
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\obj\Debug\Demo2Week5.Form1.resources
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\obj\Debug\Demo2Week5.Properties.Resources.resources
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\obj\Debug\Demo2Week5.csproj.GenerateResource.Cache
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\obj\Debug\Demo2Week5.exe
+E:\DC\CSIS1175-002 - Introduction to Programming\Demo2Week5\Demo2Week5\Demo2Week5\obj\Debug\Demo2Week5.pdb

@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\bin\Debug\TotalPayment.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\bin\Debug\TotalPayment.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\bin\Debug\TotalPayment.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\obj\Debug\TotalPayment.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\obj\Debug\TotalPayment.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\obj\Debug\TotalPayment.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\obj\Debug\TotalPayment.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\obj\Debug\TotalPayment.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Payment\TotalPayment\TotalPayment\obj\Debug\TotalPayment.frmPayment.resources

@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\bin\Debug\PayAndBonus.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\bin\Debug\PayAndBonus.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\bin\Debug\PayAndBonus.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\obj\Debug\PayAndBonus.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\obj\Debug\PayAndBonus.Form1.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\obj\Debug\PayAndBonus.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\obj\Debug\PayAndBonus.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\obj\Debug\PayAndBonus.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\PayAndBonus\PayAndBonus\obj\Debug\PayAndBonus.pdb

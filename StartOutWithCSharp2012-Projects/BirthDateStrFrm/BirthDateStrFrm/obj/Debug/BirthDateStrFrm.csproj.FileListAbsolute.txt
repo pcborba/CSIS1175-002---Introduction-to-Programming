@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\bin\Debug\BirthDateStrFrm.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\obj\Debug\BirthDateStrFrm.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\obj\Debug\BirthDateStrFrm.frmBirth.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\obj\Debug\BirthDateStrFrm.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\obj\Debug\BirthDateStrFrm.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\bin\Debug\BirthDateStrFrm.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\bin\Debug\BirthDateStrFrm.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\obj\Debug\BirthDateStrFrm.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\BirthDateStrFrm\BirthDateStrFrm\obj\Debug\BirthDateStrFrm.pdb

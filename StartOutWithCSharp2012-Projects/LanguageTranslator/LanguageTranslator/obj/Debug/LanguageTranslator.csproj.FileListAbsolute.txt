@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.translatorForm.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csprojResolveAssemblyReference.cache

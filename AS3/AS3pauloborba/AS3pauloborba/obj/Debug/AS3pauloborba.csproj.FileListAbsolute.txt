@@ -1,0 +1,12 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\bin\Debug\AS3pauloborba.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\bin\Debug\AS3pauloborba.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\bin\Debug\AS3pauloborba.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\obj\Debug\AS3pauloborba.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\obj\Debug\AS3pauloborba.frmAssignment3.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\obj\Debug\AS3pauloborba.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\obj\Debug\AS3pauloborba.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\obj\Debug\AS3pauloborba.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborba\AS3pauloborba\obj\Debug\AS3pauloborba.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS3\AS3pauloborba\AS3pauloborba\bin\Debug\AS3pauloborba.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS3\AS3pauloborba\AS3pauloborba\obj\Debug\AS3pauloborba.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\AS3\AS3pauloborba\AS3pauloborba\obj\Debug\AS3pauloborba.pdb

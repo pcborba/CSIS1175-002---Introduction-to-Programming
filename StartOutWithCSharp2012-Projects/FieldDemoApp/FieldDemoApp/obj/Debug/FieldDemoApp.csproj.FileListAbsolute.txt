@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\bin\Debug\FieldDemoApp.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\bin\Debug\FieldDemoApp.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\bin\Debug\FieldDemoApp.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\obj\Debug\FieldDemoApp.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\obj\Debug\FieldDemoApp.Form1.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\obj\Debug\FieldDemoApp.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\obj\Debug\FieldDemoApp.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\obj\Debug\FieldDemoApp.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FieldDemoApp\FieldDemoApp\obj\Debug\FieldDemoApp.pdb

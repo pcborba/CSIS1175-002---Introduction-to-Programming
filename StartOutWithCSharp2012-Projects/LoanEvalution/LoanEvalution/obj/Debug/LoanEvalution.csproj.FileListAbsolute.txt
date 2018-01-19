@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\bin\Debug\LoanEvalution.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\bin\Debug\LoanEvalution.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\bin\Debug\LoanEvalution.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\obj\Debug\LoanEvalution.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\obj\Debug\LoanEvalution.Form1.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\obj\Debug\LoanEvalution.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\obj\Debug\LoanEvalution.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\obj\Debug\LoanEvalution.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\LoanEvalution\LoanEvalution\obj\Debug\LoanEvalution.pdb

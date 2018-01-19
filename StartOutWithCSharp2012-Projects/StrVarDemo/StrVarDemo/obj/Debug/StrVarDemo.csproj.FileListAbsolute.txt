@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\bin\Debug\StrVarDemo.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\bin\Debug\StrVarDemo.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\bin\Debug\StrVarDemo.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\obj\Debug\StrVarDemo.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\obj\Debug\StrVarDemo.frmStrVarDemo.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\obj\Debug\StrVarDemo.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\obj\Debug\StrVarDemo.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\obj\Debug\StrVarDemo.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\StrVarDemo\StrVarDemo\obj\Debug\StrVarDemo.pdb

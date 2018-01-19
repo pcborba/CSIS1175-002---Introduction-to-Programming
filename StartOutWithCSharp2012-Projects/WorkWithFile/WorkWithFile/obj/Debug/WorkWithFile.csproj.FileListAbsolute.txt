@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\bin\Debug\WorkWithFile.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\bin\Debug\WorkWithFile.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\bin\Debug\WorkWithFile.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\obj\Debug\WorkWithFile.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\obj\Debug\WorkWithFile.Form1.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\obj\Debug\WorkWithFile.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\obj\Debug\WorkWithFile.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\obj\Debug\WorkWithFile.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\WorkWithFile\WorkWithFile\obj\Debug\WorkWithFile.pdb

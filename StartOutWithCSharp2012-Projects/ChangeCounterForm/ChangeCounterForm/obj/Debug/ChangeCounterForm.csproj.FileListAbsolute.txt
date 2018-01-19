@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\bin\Debug\ChangeCounterForm.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\bin\Debug\ChangeCounterForm.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\bin\Debug\ChangeCounterForm.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\obj\Debug\ChangeCounterForm.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\obj\Debug\ChangeCounterForm.frmChgCounter.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\obj\Debug\ChangeCounterForm.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\obj\Debug\ChangeCounterForm.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\obj\Debug\ChangeCounterForm.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ChangeCounterForm\ChangeCounterForm\obj\Debug\ChangeCounterForm.pdb

@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\bin\Debug\ProcMultiFiles.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\bin\Debug\ProcMultiFiles.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\bin\Debug\ProcMultiFiles.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\obj\Debug\ProcMultiFiles.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\obj\Debug\ProcMultiFiles.frmPrcMultiFiles.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\obj\Debug\ProcMultiFiles.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\obj\Debug\ProcMultiFiles.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\obj\Debug\ProcMultiFiles.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\ProcMultiFiles\ProcMultiFiles\obj\Debug\ProcMultiFiles.pdb

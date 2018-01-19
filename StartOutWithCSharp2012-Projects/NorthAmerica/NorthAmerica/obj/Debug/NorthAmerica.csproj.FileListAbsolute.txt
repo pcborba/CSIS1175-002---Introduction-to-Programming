@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\bin\Debug\NorthAmerica.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\bin\Debug\NorthAmerica.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\bin\Debug\NorthAmerica.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\obj\Debug\NorthAmerica.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\obj\Debug\NorthAmerica.frmNorth.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\obj\Debug\NorthAmerica.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\obj\Debug\NorthAmerica.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\obj\Debug\NorthAmerica.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\NorthAmerica\NorthAmerica\obj\Debug\NorthAmerica.pdb

@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\bin\Debug\AS3pauloborbaT_v0-3.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\bin\Debug\AS3pauloborbaT_v0-3.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\bin\Debug\AS3pauloborbaT_v0-3.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\obj\Debug\AS3pauloborbaT_v0-3.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\obj\Debug\AS3pauloborbaT_v0_3.frmAssignment3.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\obj\Debug\AS3pauloborbaT_v0_3.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\obj\Debug\AS3pauloborbaT_v0-3.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\obj\Debug\AS3pauloborbaT_v0-3.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\AS3pauloborbaT_v0-3\AS3pauloborbaT_v0-3\obj\Debug\AS3pauloborbaT_v0-3.pdb

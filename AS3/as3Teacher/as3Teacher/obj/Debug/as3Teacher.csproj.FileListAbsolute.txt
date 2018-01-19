@@ -1,0 +1,9 @@
+E:\as3Teacher\as3Teacher\bin\Debug\as3Teacher.exe.config
+E:\as3Teacher\as3Teacher\bin\Debug\as3Teacher.exe
+E:\as3Teacher\as3Teacher\bin\Debug\as3Teacher.pdb
+E:\as3Teacher\as3Teacher\obj\Debug\as3Teacher.csprojResolveAssemblyReference.cache
+E:\as3Teacher\as3Teacher\obj\Debug\as3Teacher.frmAssignment3.resources
+E:\as3Teacher\as3Teacher\obj\Debug\as3Teacher.Properties.Resources.resources
+E:\as3Teacher\as3Teacher\obj\Debug\as3Teacher.csproj.GenerateResource.Cache
+E:\as3Teacher\as3Teacher\obj\Debug\as3Teacher.exe
+E:\as3Teacher\as3Teacher\obj\Debug\as3Teacher.pdb

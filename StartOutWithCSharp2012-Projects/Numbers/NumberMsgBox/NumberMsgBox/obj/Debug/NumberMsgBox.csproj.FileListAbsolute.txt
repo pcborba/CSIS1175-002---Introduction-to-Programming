@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\bin\Debug\NumberMsgBox.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\obj\Debug\NumberMsgBox.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\obj\Debug\NumberMsgBox.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\obj\Debug\NumberMsgBox.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\bin\Debug\NumberMsgBox.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\bin\Debug\NumberMsgBox.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\obj\Debug\NumberMsgBox.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\obj\Debug\NumberMsgBox.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Numbers\NumberMsgBox\NumberMsgBox\obj\Debug\NumberMsgBox.frmNumbers.resources

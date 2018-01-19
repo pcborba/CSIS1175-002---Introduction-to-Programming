@@ -1,0 +1,18 @@
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\bin\Debug\demo2Week10.exe.config
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\bin\Debug\demo2Week10.exe
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\bin\Debug\demo2Week10.pdb
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\obj\Debug\demo2Week10.csprojResolveAssemblyReference.cache
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\obj\Debug\demo2Week10.Form1.resources
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\obj\Debug\demo2Week10.Properties.Resources.resources
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\obj\Debug\demo2Week10.csproj.GenerateResource.Cache
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\obj\Debug\demo2Week10.exe
+c:\users\lis\documents\visual studio 2015\Projects\demo2Week10\demo2Week10\obj\Debug\demo2Week10.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\bin\Debug\demo2Week10.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\obj\Debug\demo2Week10.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\obj\Debug\demo2Week10.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\obj\Debug\demo2Week10.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\obj\Debug\demo2Week10.Form1.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\obj\Debug\demo2Week10.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\obj\Debug\demo2Week10.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\bin\Debug\demo2Week10.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\demo2Week10 T\demo2Week10\bin\Debug\demo2Week10.pdb

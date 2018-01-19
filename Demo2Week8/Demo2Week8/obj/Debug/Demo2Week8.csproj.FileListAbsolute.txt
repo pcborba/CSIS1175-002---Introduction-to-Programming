@@ -1,0 +1,18 @@
+E:\Demo2Week8\Demo2Week8\bin\Debug\Demo2Week8.exe.config
+E:\Demo2Week8\Demo2Week8\bin\Debug\Demo2Week8.exe
+E:\Demo2Week8\Demo2Week8\bin\Debug\Demo2Week8.pdb
+E:\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.csprojResolveAssemblyReference.cache
+E:\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.Form1.resources
+E:\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.Properties.Resources.resources
+E:\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.csproj.GenerateResource.Cache
+E:\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.exe
+E:\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\bin\Debug\Demo2Week8.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\bin\Debug\Demo2Week8.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\bin\Debug\Demo2Week8.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.Form1.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\Demo2Week8\Demo2Week8\obj\Debug\Demo2Week8.csproj.GenerateResource.Cache

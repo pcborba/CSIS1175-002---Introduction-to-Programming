@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\bin\Debug\OverTimePayroll.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\bin\Debug\OverTimePayroll.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\bin\Debug\OverTimePayroll.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\obj\Debug\OverTimePayroll.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\obj\Debug\OverTimePayroll.frmPayroll.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\obj\Debug\OverTimePayroll.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\obj\Debug\OverTimePayroll.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\obj\Debug\OverTimePayroll.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\OverTimePayroll\OverTimePayroll\obj\Debug\OverTimePayroll.pdb

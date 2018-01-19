@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\bin\Debug\HeadOrTails.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\obj\Debug\HeadOrTails.frmHeadOrTails.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\obj\Debug\HeadOrTails.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\obj\Debug\HeadOrTails.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\bin\Debug\HeadOrTails.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\bin\Debug\HeadOrTails.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\obj\Debug\HeadOrTails.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\obj\Debug\HeadOrTails.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\Coins\HeadOrTails\HeadOrTails\obj\Debug\HeadOrTails.csprojResolveAssemblyReference.cache

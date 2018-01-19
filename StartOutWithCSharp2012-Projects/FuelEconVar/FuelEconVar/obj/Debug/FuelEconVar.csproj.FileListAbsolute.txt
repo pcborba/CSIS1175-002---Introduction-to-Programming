@@ -1,0 +1,9 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\bin\Debug\FuelEconVar.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\bin\Debug\FuelEconVar.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\bin\Debug\FuelEconVar.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\obj\Debug\FuelEconVar.csprojResolveAssemblyReference.cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\obj\Debug\FuelEconVar.frmFuelEconomy.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\obj\Debug\FuelEconVar.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\obj\Debug\FuelEconVar.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\obj\Debug\FuelEconVar.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\FuelEconVar\FuelEconVar\obj\Debug\FuelEconVar.pdb

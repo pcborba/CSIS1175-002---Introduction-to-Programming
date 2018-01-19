@@ -1,0 +1,9 @@
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\bin\Debug\DemoClass1.exe.config
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\bin\Debug\DemoClass1.exe
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\bin\Debug\DemoClass1.pdb
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\obj\Debug\DemoClass1.csprojResolveAssemblyReference.cache
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\obj\Debug\DemoClass1.Properties.Resources.resources
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\obj\Debug\DemoClass1.csproj.GenerateResource.Cache
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\obj\Debug\DemoClass1.exe
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\obj\Debug\DemoClass1.pdb
+c:\users\300268640\documents\visual studio 2015\Projects\DemoClass1\DemoClass1\obj\Debug\DemoClass1.Form1.resources

@@ -1,0 +1,8 @@
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.exe.config
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TextBoxDemo\TextBoxDemo\bin\Debug\TextBoxDemo.pdb
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.frmTxtBox.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.Properties.Resources.resources
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.csproj.GenerateResource.Cache
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.exe
+C:\Users\pcbor\OneDrive\Douglas College\CSIS1175-002 - Introduction to Programming\StartOutWithCSharp2012-Projects\TextBoxDemo\TextBoxDemo\obj\Debug\TextBoxDemo.pdb
